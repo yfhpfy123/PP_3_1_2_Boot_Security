@@ -8,7 +8,6 @@ import ru.kata.spring.boot_security.demo.service.UserService;
 
 import javax.annotation.PostConstruct;
 import java.util.Collections;
-import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
